@@ -1,4 +1,4 @@
-# subsetting_cancer_imputed_genotype_bialletic_dosage
+# subset-tcga-genotype
 This script is intended to subset TCGA cancer imputed genotype bialletic dosage files 
 
 ## Prerequisite
